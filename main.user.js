@@ -6,10 +6,11 @@
 // @author       uncharity
 // @license      MIT
 // @icon         https://www.bilibili.com/favicon.ico
-// @supportURL   https://github.com/uncharity/ClickEase-for-Bilibili/issues
 // @match        https://*.bilibili.com/*
 // @grant        none
 // @run-at       document-end
+// @supportURL   https://github.com/uncharity/ClickEase-for-Bilibili/issues
+// @downloadURL https://github.com/uncharity/ClickEase-for-Bilibili/blob/main/main.user.js
 // ==/UserScript==
 
 (function () {
