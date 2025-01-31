@@ -10,7 +10,7 @@
 // @grant        none
 // @run-at       document-end
 // @supportURL   https://github.com/uncharity/ClickEase-for-Bilibili/issues
-// @downloadURL https://github.com/uncharity/ClickEase-for-Bilibili/blob/main/main.user.js
+// @downloadURL https://github.com/uncharity/ClickEase-for-Bilibili/raw/main/main.user.js
 // ==/UserScript==
 
 (function () {
